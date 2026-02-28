@@ -50,3 +50,12 @@ Source code files:
 ✔ 2.2 Discount rule (10% if order total > 500 EUR)  
 ✔ 2.3 Customer who spent the most  
 ✔ 2.4 Bonus – Popular products calculation  
+
+## ▶ How to Run
+
+1. Navigate to the project folder:
+  cd SiemensInternship
+2. Run:
+  dotnet run
+Requirements:
+- .NET 8 SDK (or compatible version)
